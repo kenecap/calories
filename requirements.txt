@@ -1,0 +1,12 @@
+pandas
+matplotlib
+seaborn
+Pillow
+requests
+tqdm
+numpy
+torch
+torchvision
+timm
+albumentations
+opencv-python-headless

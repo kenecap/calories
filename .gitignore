@@ -1,0 +1,8 @@
+/data/
+*.zip
+/venv/
+/.venv/
+__pycache__/
+*.pyc
+.vscode/
+best_model_vit_attention.pthbest_model_vit_attention.pth
